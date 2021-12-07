@@ -1,6 +1,6 @@
-I’m interested in machine learning, web apps (saas products)
+I’m interested in machine learning, web apps (saas products), now dapps.
 I’m specialised in Flask/Django/Docker/Webpack Product Development
-I’m occassionally publish google collab data analysises
+I also occassionally publish society, and medical data analytics.
 📫 You can reach out to me at hello@dorcis.com
 
 <!---
